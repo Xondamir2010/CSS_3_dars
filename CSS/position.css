@@ -1,0 +1,92 @@
+.boxes{
+    text-align: center;
+    width: 225px;
+    height: 445px;
+    position: relative;
+    margin: 100px auto;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.box1{
+    width: 225px;
+    height: 225px;
+    background-image: url("/Rasmlar/foto.jpg");
+    background-size: 225px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-position: center center;
+    border: 0.10px solid black;
+
+}
+.box2{
+    width: 225px;
+    height: 220px;
+    box-sizing: border-box;
+    border: 0.10px solid black;
+    background-image: url("/Rasmlar/UZCARD.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 100px;
+
+}
+.tolash{
+    width: 65px;
+    height: 65px;
+    border: 3px solid orange;
+    background-color: orange;
+    border-radius: 50px;
+    position: absolute;
+    top: 0;
+    right: 15px;
+}
+.boxcha{
+    background-color: lawngreen;
+    float: left;
+    top: 16px;
+    position: relative;
+    box-sizing: border-box;
+}
+.p1{
+     color: grey;
+    float: left;
+}
+h4{
+    position: relative;
+    top: 1px;
+    float: left;
+}
+.skidka{
+    position: absolute;
+    border-radius: 5px;
+    top: 417px;
+    left: 10px;
+    width: 30px;
+    height: 20px;
+    background-color: red;
+}
+.krch{
+    color: grey;
+    position: relative;
+    top: 120px;
+    right: 20px;
+}
+.choy{
+    position: relative;
+    top: 30px;
+    left: 45px;
+}
+.clas{
+    background-color: yellow;
+    position: relative;
+    text-align: center;
+    width: 60px;
+    height: 20px;
+    top: 10px;
+    left: 90px;
+}
+.pteg{
+    position: relative;
+    bottom: 33px;
+    left: 75px;
+    color: grey;
+}
